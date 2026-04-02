@@ -12,6 +12,12 @@ This application is open-source and released under the MIT License.
 
 ---
 
+## ⚠️ Legacy Code
+
+This project is now in legacy mode and no longer maintained. The architectural decision to use Python and Headless Playwright was ulimately not a successful strategy.
+
+---
+
 ## ✨ Features
 
 - Monitors Trump's official Truth Social posts
